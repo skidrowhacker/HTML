@@ -1,0 +1,15 @@
+// HTML // 
+Most Tags use the following 
+<tag>content</tag> -Open and Close  // فتح واغلاق التاق
+<em></em> -- to Highlight a text // لاشارة لكلمات مهمة // 
+<html></html> --- html tags // - كود الاساسي للصفحة 
+lang="en"  --- html tag with lang attribute  -- اضافة صفة لغة الصفحة
+<head></head> --- head tags  -- راس الصفحة  
+<meta charset="utf-8"> -- utf8 input  -- اضافة صفة مفاتيح الادخال
+<title>Title_Page</title> --> title page  // تاق عنوان للصفحة 
+<body></body> --- body of html content area --// محتوى الصفحة يكتب هنا 
+<h3></h3> -- font size -- // خطوط الكتابة من h1 - h6 
+<p></p> <em></em> for Highlight words   // لاشارة لكلمات مهمة // 
+<a></a> -- for links  -- اضافة تحويل الى صفحة او رابط 
+<img src="x"> -- load images  --- اضافة صورة للصفحة 
+// HTML // 
